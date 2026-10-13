@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+  int a = 27;
+  int b = 12;
+  int c = a-b;
+  printf("The difference of the two numbers is:%d",c);
+  return 0;
+}
